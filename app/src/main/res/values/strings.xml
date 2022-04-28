@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CiclodeVida3</string>
+    <string name="titulo">Ciclo de Vida 3</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="listado">Listado</string>
+    <string name="agregar">Agregar</string>
+</resources>
